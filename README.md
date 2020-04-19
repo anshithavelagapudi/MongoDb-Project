@@ -13,5 +13,7 @@
 
 
 
-<a href="https://use.vg/gf34Re">Introduction to topic</a>
+VidGrid links for ppt's
+
+<a href="https://use.vg/gf34Re">Introduction to topic</a> - Sumana
 
