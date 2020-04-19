@@ -4,7 +4,7 @@
 - Sumana Reddy Reddybathula
 - Navya Devineni
 - Naga Anshitha Velagapudi
-- Rohitha Meda
+- Rohitha Reddy Meda
 
 ## MongoDb 
 
