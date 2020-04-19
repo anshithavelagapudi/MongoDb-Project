@@ -12,5 +12,8 @@
 - Atlas handles all the complexity of deploying, managing, and healing your deployments on the cloud service provider of your choice (AWS, Azure, and GCP). 
 
 
+
+VidGrid links for ppt's
+
 <a href="https://use.vg/gf34Re">Introduction to topic</a>
 
