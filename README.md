@@ -15,8 +15,10 @@
 
 VidGrid links for ppt's
 
-<a href="https://use.vg/gf34Re">Introduction to topic</a> - Sumana
+1. <a href="https://use.vg/gf34Re">Introduction to topic</a> - Sumana
 
-<a href="https://use.vg/HcqSdL">Creating Clusters</a> - Rohitha
+2. <a href="https://use.vg/HcqSdL">Creating Clusters</a> - Rohitha
+
+3. <a href="https://app.vidgrid.com/view/wyl11r8Ad3kj">CRUD Operations</a> - Anshitha
 
 <a href="https://use.vg/dxOSmt">Backup plan</a> - Navya
